@@ -5,8 +5,9 @@ Intro video op https://channel9.msdn.com/events/Build/2016/P5
 
 Testen van 2 Addin varianten.
 
-  Applicatie wordt geladen met de Excel ongeacht welke werkmap
-  Document   wordt alleen geladen met de werkmap waarin deze is opgeslagen
+  1] Applicatie wordt geladen met de Excel ongeacht welke werkmap
+  
+  2] Document   wordt alleen geladen met de werkmap waarin deze is opgeslagen
 
 Een Addin bestaat uit
 
